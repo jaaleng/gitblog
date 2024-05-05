@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jaaleng/gitblog</id><title>RSS feed of jaaleng's gitblog</title><updated>2024-05-05T15:36:52.988239+00:00</updated><link href="https://github.com/jaaleng/gitblog"/><link href="https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jaaleng/gitblog/issues/9</id><title>TensorFlow Internals.</title><updated>2024-05-05T15:36:53.195731+00:00</updated><content type="html"><![CDATA[<p>It is open source ebook about TensorFlow kernel and implementation mechanism, including programming model, computation graph, distributed training for machine learning.</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jaaleng/gitblog</id><title>RSS feed of jaaleng's gitblog</title><updated>2024-05-05T15:41:08.394458+00:00</updated><link href="https://github.com/jaaleng/gitblog"/><link href="https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jaaleng/gitblog/issues/9</id><title>TensorFlow Internals.</title><updated>2024-05-05T15:41:08.559080+00:00</updated><content type="html"><![CDATA[<p>It is open source ebook about TensorFlow kernel and implementation mechanism, including programming model, computation graph, distributed training for machine learning.</p>
 <p>Downloads
 You can obtain full latex source files of TensorFlow Internals from <a href="https://gitlab.com/horance/tensorflow-internals">https://gitlab.com/horance/tensorflow-internals</a></p>
 <p>Install Tex
@@ -13,9 +13,9 @@ Download <a href="http://tug.org/mactex/">MacTeX.pkg</a>, and install it.</p>
 <p>Windowns
 Download <a href="http://www.ctex.org/CTeXDownload">CTEX-full</a>, and install it.</p>
 <p>Install Missing Fonts
-Then you should install some missing chinese fonts. Please download missing fonts from Gitlab.</p>
-<p><code>$ git clone https://gitlab.com/horance/fonts.git</code></p>
-<p>Then install all missing fonts.</p>
+Then you should install some missing chinese fonts. Please download missing fonts from Gitlab.
+<code>$ git clone https://gitlab.com/horance/fonts.git</code>
+Then install all missing fonts.</p>
 <p>Ubuntu</p>
 <pre><code>$ sudo cp fonts/* /usr/local/share/fonts
 $ sudo fc-cache
@@ -25,30 +25,30 @@ Import all missing fonts into fontbook, then cache all fonts.</p>
 <p><code> $ sudo fc-cache</code></p>
 <p>Windows
 Copy the all missing fonts into C:/WINDOWS/Fonts, then cache all fonts.
-...
+.
 $ fc-cache
-...
+.
 Build
-...
+.
 <code>$ make</code>
-...
+.
 if you happen to Error begin with ?, then press R(not r) and Enter to continue.</p>
 <p>Preview PDF
 Mac OSX
-...
+.
 <code>$ open output/tensorflow-internals.pdf</code>
-...
+.
 Ubuntu
-...
+.
 <code>$ okular output/tensorflow-internals.pdf</code>
-...
-if no okular installed, please install it.
-...
+.</p>
+<p>if no okular installed, please install it.
+.
 <code>$ sudo apt-get install okular</code>
-...
-Windows
+.</p>
+<p>Windows
 open the file from directory tensorflow-internals/output.</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/9"/><category term="存档"/><published>2024-05-05T15:31:52+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/8</id><title>微信视频号下载工具</title><updated>2024-05-05T15:36:53.288659+00:00</updated><content type="html"><![CDATA[<p>🆔  软件名称：微信视频号下载工具</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/9"/><category term="存档"/><published>2024-05-05T15:31:52+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/8</id><title>微信视频号下载工具</title><updated>2024-05-05T15:41:08.636466+00:00</updated><content type="html"><![CDATA[<p>🆔  软件名称：微信视频号下载工具</p>
 <p>⭐️  软件功能：视频号下载</p>
 <p>➡️  支持平台：#Windows</p>
 <p>📁  软件简介：一款视频下载工具，用于下载微信视频号的视频和直播回放。</p>
@@ -56,20 +56,20 @@ open the file from directory tensorflow-internals/output.</p>
 <p>可以复制视频的下载链接，使用其他下载工具将视频保存到本地。</p>
 <p>也可以选择手动下载，即通过复制链接后用其他工具下载；或选择自动下载，直接在软件中下载视频。</p>
 <p>⬇️  软件下载：<a href="https://github.com/qiye45/wechatVideoDownload/releases">点击下载</a></p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/8"/><category term="存档"/><published>2024-05-01T16:12:54+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/7</id><title>苹果发布新品邀请函：放飞吧！</title><updated>2024-05-05T15:36:53.382790+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.ym.today/file/a1758288054a91217edd3.jpg" alt="image" /></p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/8"/><category term="存档"/><published>2024-05-01T16:12:54+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/7</id><title>苹果发布新品邀请函：放飞吧！</title><updated>2024-05-05T15:41:08.710450+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.ym.today/file/a1758288054a91217edd3.jpg" alt="image" /></p>
 <p>苹果发布新品邀请函：放飞吧！</p>
 <p>5 月 7 日晚上十点，邀请函中苹果 logo 里一根 Apple Pencil。新款 iPad Pro 和 iPad Air 来了！ ​​​</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/7"/><category term="生活"/><published>2024-04-23T17:32:42+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/6</id><title>谢谢大家了</title><updated>2024-05-05T15:36:53.483047+00:00</updated><content type="html"><![CDATA[<p>近几年，困为繁重的工作根本没有顾及到网络，有空就刷下微信，聊以度日。</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/7"/><category term="生活"/><published>2024-04-23T17:32:42+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/6</id><title>谢谢大家了</title><updated>2024-05-05T15:41:08.774923+00:00</updated><content type="html"><![CDATA[<p>近几年，困为繁重的工作根本没有顾及到网络，有空就刷下微信，聊以度日。</p>
 <p>2024年过年后，工厂突然没有订单，一下处于半失业状态，有活就打电话丶没话就在家歇着，人一下子就闲了下来，想再去找个工作，还动不动打电话，不找吧，仅仅能发个千元的生活费。后来想想，先歇着吧，就又对网络上心了。</p>
 <p>首先就是接触到github的好多大神，看了好多优秀的项目，虽然自己部暑不了，但感觉眼界一下开了。有位jeely的大神，说建什么都建什么，真是羡慕。首先接触的是极简博客，然后是<a href="https://m.mblog.club">极简朋友圈</a>做的越来越好。还有位Github的大神<a href="https://github.com/yihong0618/gitblog">yihong</a>，我部署就是他的<a href="https://github.com/yihong0618/gitblog/issues/177">Github</a>博客，对于小白来说，还是折腾了好久，不过还算成功了。感谢大家了。
 老想着Github这样用是不是滥用，但是自己实在没有多余的金钱和精力，就先这样凑合吧。再次感谢那些帮助过我的朋友们，有很多问题他们都是不耐其烦的解答。</p>
 <p>谢谢大家了！</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/6"/><category term="生活"/><published>2024-04-21T16:25:25+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/5</id><title>正向星系NGC 1232  </title><updated>2024-05-05T15:36:53.580586+00:00</updated><content type="html"><![CDATA[<p>相比之下，我还是喜欢无垠的宇宙星空.</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/6"/><category term="生活"/><published>2024-04-21T16:25:25+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/5</id><title>正向星系NGC 1232  </title><updated>2024-05-05T15:41:08.846804+00:00</updated><content type="html"><![CDATA[<p>相比之下，我还是喜欢无垠的宇宙星空.</p>
 <p><img src="https://pic.ym.today/file/72a2d6bed528c3043250a.jpg" alt="image" /></p>
 <p>正向星系NGC 1232<br />
 影像提供与版权:Neil Corke</p>
 <p>说明： 从我们在银河系的视角看出去，NGC1232是个正向星系。这个庞大美丽、离我们约4千7百万光年远的螺旋星系，位于南天的波江座内，其跨幅将近有200,000光年。这幅由多色望远镜照片组合而成的NGC1232清晰影像，呈现了这个遥远星系无比细致的结构。从核心往外，星系的色泽从中心年老恒星的黄光，转变为宏伟螺旋臂上的泛蓝年轻星团和泛红的恒星形成区。NGC1232在视觉上的小棒旋伴星系，其编录号NGC 1232A。然而它的估计距离远在3亿光年之外，因此不太可能和NGC1232有互动。除此之外，醒目的带芒亮星近在我们银河系里，远比NGC 1232要近。</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/5"/><category term="天文"/><published>2024-04-19T03:59:31+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/4</id><title>苹果中国应用商店下架WhatsApp和Threads</title><updated>2024-05-05T15:36:53.672112+00:00</updated><content type="html"><![CDATA[<p>监管越来越严重了。</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/5"/><category term="天文"/><published>2024-04-19T03:59:31+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/4</id><title>苹果中国应用商店下架WhatsApp和Threads</title><updated>2024-05-05T15:41:08.916788+00:00</updated><content type="html"><![CDATA[<p>监管越来越严重了。</p>
 <blockquote>
 <p>据《华尔街日报》，苹果公司星期五（4月19日）从中国应用商店下架了Meta所开发的通讯软件WhatsApp和社媒平台Threads。
 《华尔街日报》报道称，苹果公司透露，这是中国最高互联网监管机构出于国家安全考虑，要求其删除这些应用程序。
@@ -77,7 +77,7 @@ open the file from directory tensorflow-internals/output.</p>
 中国工信部去年8月9日发布通知，要求境内所有App都必须向所在地的省级通信管理局备案。在通知印发前上线的应用程序，需在2024年3月底前完成备案。没有备案者不得从事网络讯息服务。
 工信部的通知还说，从今年4月至6月底，电信主管部门将组织对APP备案情况开展监督检查，对仍未履行备案手续的APP依法进行处置。</p>
 </blockquote>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/4"/><category term="心情"/><published>2024-04-19T03:19:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/3</id><title>测</title><updated>2024-05-05T15:36:53.766350+00:00</updated><content type="html"><![CDATA[<p>好</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/3"/><category term="存档"/><published>2024-04-19T02:44:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/2</id><title>测试</title><updated>2024-05-05T15:36:53.867151+00:00</updated><content type="html"><![CDATA[<p>测试</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/2"/><category term="天文"/><published>2024-04-19T02:33:41+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/1</id><title>About me</title><updated>2024-05-05T15:36:53.965481+00:00</updated><content type="html"><![CDATA[<p>About</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/4"/><category term="心情"/><published>2024-04-19T03:19:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/3</id><title>测</title><updated>2024-05-05T15:41:08.989690+00:00</updated><content type="html"><![CDATA[<p>好</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/3"/><category term="存档"/><published>2024-04-19T02:44:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/2</id><title>测试</title><updated>2024-05-05T15:41:09.060658+00:00</updated><content type="html"><![CDATA[<p>测试</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/2"/><category term="天文"/><published>2024-04-19T02:33:41+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/1</id><title>About me</title><updated>2024-05-05T15:41:09.130568+00:00</updated><content type="html"><![CDATA[<p>About</p>
 ]]></content><link href="https://github.com/jaaleng/gitblog/issues/1"/><category term="About"/><published>2024-04-19T02:31:03+00:00</published></entry></feed>
