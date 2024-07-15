@@ -1,25 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jaaleng/gitblog</id><title>RSS feed of jaaleng's gitblog</title><updated>2024-07-07T11:29:45.412016+00:00</updated><link href="https://github.com/jaaleng/gitblog"/><link href="https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jaaleng/gitblog/issues/16</id><title>马斯克称星舰4周内将再次试飞</title><updated>2024-07-07T11:29:45.627789+00:00</updated><content type="html"><![CDATA[<p>据报道，SpaceX创始人埃隆·马斯克5日在社交媒体X上表示，该公司新一代重型运载火箭“星舰”将在4周内进行第五次轨道试飞。“星舰”火箭总长约120米，直径约9米，可重复使用。该火箭的设计目标是将人和货物送至地球轨道、月球乃至火星。
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jaaleng/gitblog</id><title>RSS feed of jaaleng's gitblog</title><updated>2024-07-15T14:11:30.214557+00:00</updated><link href="https://github.com/jaaleng/gitblog"/><link href="https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jaaleng/gitblog/issues/17</id><title>一个基于 React native 开发的音乐软件</title><updated>2024-07-15T14:11:30.410204+00:00</updated><content type="html"><![CDATA[<p>说明
+一个基于 React native 开发的音乐软件。</p>
+<p>支持的平台：</p>
+<p>Android
+注：不计划支持IOS</p>
+<p>软件变化请查看：<a href="https://github.com/ikunshare/lx-music-mobile-mod/blob/master/CHANGELOG.md">更新日志</a>
+软件下载请转到：<a href="https://github.com/ikunshare/lx-music-mobile-mod/releases">发布页面</a>
+或者到网盘下载（网盘内有MAC、windows版）：<a href="https://ikunruku.lanzouo.com/b007so8e7a/">https://ikunruku.lanzouo.com/b007so8e7a/</a> 密码：lxmusicmod（若链接无法打开请百度：蓝奏云链接打不开）
+使用常见问题请转至：<a href="https://lyswhut.github.io/lx-music-doc/mobile/faq">常见问题</a>
+桌面版项目地址：<a href="https://github.com/ikunshare/lx-music-desktop-mod">https://github.com/ikunshare/lx-music-desktop-mod</a></p>
+<p>目前本项目的原始发布地址只有GitHub及蓝奏网盘，其他渠道均为第三方转载发布，与本项目无关！</p>
+<p>为了提高使用门槛，本软件内的默认设置、UI操作不以新手友好为目标，所以使用前建议先根据你的喜好浏览调整一遍软件设置，阅读一遍<a href="https://lyswhut.github.io/lx-music-doc/mobile/faq/playlist">音乐播放列表机制</a></p>
+<p>数据同步服务
+从v1.0.0起，我们发布了一个独立版的<a href="https://github.com/lyswhut/lx-music-sync-server#readme">数据同步服务</a>，如果你有服务器，可以将其部署到服务器上作为私人多端同步服务使用，详情看该项目说明</p>
+<p>贡献代码
+本项目欢迎PR，但为了PR能顺利合并，需要注意以下几点：</p>
+<p>对于添加新功能的PR，建议在PR前先创建issue说明，以确认该功能是否确实需要
+对于修复Bug PR，请提供修复前后的说明及重现方式
+其他类型的PR则适当附上说明
+贡献代码步骤：</p>
+<p>参照<a href="https://lyswhut.github.io/lx-music-doc/mobile/use-source-code">源码使用方法</a>设置开发环境
+克隆本仓库代码并切换到dev分支开发
+提交PR
+项目协议
+本项目基于 <a href="https://github.com/lyswhut/lx-music-mobile/blob/master/LICENSE">Apache License 2.0</a> 许可证发行，以下协议是对于 Apache License 2.0 的补充，如有冲突，以以下协议为准。</p>
+<p>词语约定：本协议中的“本项目”指洛雪音乐移动版项目；“使用者”指签署本协议的使用者；“官方音乐平台”指对本项目内置的包括酷我、酷狗、咪咕等音乐源的官方平台统称；“版权数据”指包括但不限于图像、音频、名字等在内的他人拥有所属版权的数据。</p>
+<p>一、数据来源
+1.1 本项目的各官方平台在线数据来源原理是从其公开服务器中拉取数据（与未登录状态在官方平台APP获取的数据相同），经过对数据简单地筛选与合并后进行展示，因此本项目不对数据的合法性、准确性负责。</p>
+<p>1.2 本项目本身没有获取某个音频数据的能力，本项目使用的在线音频数据来源来自软件设置内“音乐来源”设置所选择的“源”返回的在线链接。例如播放某首歌，本项目所做的只是将希望播放的歌曲名字、歌手名字等信息传递给“源”，若“源”返回了一个链接，则本项目将认为这就是该歌曲的音频数据而进行使用，至于这是不是正确的音频数据本项目无法校验其准确性，所以使用本项目的过程中可能会出现希望播放的音频与实际播放的音频不对应或者无法播放的问题。</p>
+<p>1.3 本项目的非官方平台数据（例如我的收藏列表）来自使用者本地系统或者使用者连接的同步服务，本项目不对这些数据的合法性、准确性负责。</p>
+<p>二、版权数据
+2.1 使用本项目的过程中可能会产生版权数据。对于这些版权数据，本项目不拥有它们的所有权。为了避免侵权，使用者务必在24小时内清除使用本项目的过程中所产生的版权数据。</p>
+<p>三、音乐平台别名
+3.1 本项目内的官方音乐平台别名为本项目内对官方音乐平台的一个称呼，不包含恶意。如果官方音乐平台觉得不妥，可联系本项目更改或移除。</p>
+<p>四、资源使用
+4.1 本项目内使用的部分包括但不限于字体、图片等资源来源于互联网。如果出现侵权可联系本项目移除。</p>
+<p>五、免责声明
+5.1 由于使用本项目产生的包括由于本协议或由于使用或无法使用本项目而引起的任何性质的任何直接、间接、特殊、偶然或结果性损害（包括但不限于因商誉损失、停工、计算机故障或故障引起的损害赔偿，或任何及所有其他商业损害或损失）由使用者负责。</p>
+<p>六、使用限制
+6.1 本项目完全免费，且开源发布于 GitHub 面向全世界人用作对技术的学习交流。本项目不对项目内的技术可能存在违反当地法律法规的行为作保证。</p>
+<p>6.2 禁止在违反当地法律法规的情况下使用本项目。 对于使用者在明知或不知当地法律法规不允许的情况下使用本项目所造成的任何违法违规行为由使用者承担，本项目不承担由此造成的任何直接、间接、特殊、偶然或结果性责任。</p>
+<p>七、版权保护
+7.1 音乐平台不易，请尊重版权，支持正版。</p>
+<p>八、非商业性质
+8.1 本项目仅用于对技术可行性的探索及研究，不接受任何商业（包括但不限于广告等）合作及捐赠。</p>
+<p>九、接受协议
+9.1 若你使用了本项目，将代表你接受本协议。</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/17"/><category term="存档"/><published>2024-07-15T14:11:05+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/16</id><title>马斯克称星舰4周内将再次试飞</title><updated>2024-07-15T14:11:30.537396+00:00</updated><content type="html"><![CDATA[<p>据报道，SpaceX创始人埃隆·马斯克5日在社交媒体X上表示，该公司新一代重型运载火箭“星舰”将在4周内进行第五次轨道试飞。“星舰”火箭总长约120米，直径约9米，可重复使用。该火箭的设计目标是将人和货物送至地球轨道、月球乃至火星。
 <img src="https://pic.imgdb.cn/item/668a7bedd9c307b7e935ceae.jpg" alt="" />
 SpaceX公司的“星舰”火箭将在四周内进行第五次轨道试飞。这款120米长、直径9米的重型运载火箭分为“超级重型”助推器和“星舰”飞船两部分，均可重复使用。尽管此前的四次试飞遇到了多次技术挑战和失败，包括爆炸和失联，但公司计划在第五次试飞中尝试新的发射台捕获回收技术，以提高火箭的发射频率和可重复使用性。</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/16"/><category term="存档"/><published>2024-07-07T11:29:23+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/15</id><title>腾讯视频 visionOS 端今日上线 提供逾 600 部作品</title><updated>2024-07-07T11:29:45.728424+00:00</updated><content type="html"><![CDATA[<p>腾讯视频 visionOS 端今日上线 提供逾 600 部作品</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/16"/><category term="存档"/><published>2024-07-07T11:29:23+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/15</id><title>腾讯视频 visionOS 端今日上线 提供逾 600 部作品</title><updated>2024-07-15T14:11:30.636504+00:00</updated><content type="html"><![CDATA[<p>腾讯视频 visionOS 端今日上线 提供逾 600 部作品</p>
 <p>腾讯视频 visionOS 端今日上线，提供《庆余年第二季》《三体》《斗罗大陆》等逾 600 部精品佳作，基于 RealityKit 与空间音频技术，为平台热门影视 IP 构建了不同类型的 3D 空间环境，从视觉和听觉上为消费者带来更为真实的沉浸式空间体验。</p>
 <p>电竞赛事中，腾讯视频技术团队将 3D 沙盘、游戏角色陪看、专业比赛数据多视角呈现等技术与方案进行融合，打造了王者沙盘功能。</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/15"/><category term="存档"/><published>2024-06-14T13:26:24+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/14</id><title>庆余年 第二季 </title><updated>2024-07-07T11:29:45.825045+00:00</updated><content type="html"><![CDATA[<p>名称：庆余年 第二季 (2024) 4K + 1080p 纯净版 更E15 【热播古装剧】</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/15"/><category term="存档"/><published>2024-06-14T13:26:24+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/14</id><title>庆余年 第二季 </title><updated>2024-07-15T14:11:30.718192+00:00</updated><content type="html"><![CDATA[<p>名称：庆余年 第二季 (2024) 4K + 1080p 纯净版 更E15 【热播古装剧】</p>
 <p><img src="https://img.m.mw/file/2dce7b196f325d3bd84ae.jpg" alt="image" /></p>
 <p>描述：该剧改编自猫腻同名畅销小说，承接上季，范闲（张若昀 饰）率领使团回归途中，二皇子以费介、范思辙以及滕家遗孤的安危来威胁范闲，逼他向自己俯首称臣，二人的矛盾就此激发。范闲所面对的抱月楼迷局，以及接踵而至的春闱危机，都是二皇子精心给范闲布下的陷阱。</p>
 <p>链接：<a href="https://www.alipan.com/s/gkdra8bJ1qx">https://www.alipan.com/s/gkdra8bJ1qx</a></p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/14"/><category term="存档"/><published>2024-05-22T15:31:15+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/13</id><title>一个开源的多人在线协作知识库应用</title><updated>2024-07-07T11:29:45.919744+00:00</updated><content type="html"><![CDATA[<p>📄 <a href="https://github.com/outline/outline">Outline - 一个开源的多人在线协作知识库应用</a></p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/14"/><category term="存档"/><published>2024-05-22T15:31:15+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/13</id><title>一个开源的多人在线协作知识库应用</title><updated>2024-07-15T14:11:30.790514+00:00</updated><content type="html"><![CDATA[<p>📄 <a href="https://github.com/outline/outline">Outline - 一个开源的多人在线协作知识库应用</a></p>
 <p>Outline 的界面美观、功能丰富、兼容 Markdown 的特点，支持中文和 Docker 部署</p>
 <p>可作为私人 wiki 或中小型公司的内部文档和知识库平台</p>
 <p>在 config.sh 中找到 DEFAULT_LANGUAGE 改成 zh_CN 就是默认中文</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/13"/><category term="存档"/><published>2024-05-21T14:34:35+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/11</id><title>发个视频试下</title><updated>2024-07-07T11:29:46.019672+00:00</updated><content type="html"><![CDATA[<video width="560" height="480" controls>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/13"/><category term="存档"/><published>2024-05-21T14:34:35+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/11</id><title>发个视频试下</title><updated>2024-07-15T14:11:30.875670+00:00</updated><content type="html"><![CDATA[<video width="560" height="480" controls>
  <source src="https://jreey.iblogger.org/usr/uploads/2024/05/1537025218.mp4" type="video/mp4">
-</video>]]></content><link href="https://github.com/jaaleng/gitblog/issues/11"/><category term="心情"/><published>2024-05-13T14:23:15+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/10</id><title>一个免费电子书下载站</title><updated>2024-07-07T11:29:46.112427+00:00</updated><content type="html"><![CDATA[<p>一个免费电子书下载站，提供 pdf/txt/mobi/epub/kindle 格式的城通网盘电子书资源下载。可以配合前两天分享的城通网盘解析来下载资源</p>
+</video>]]></content><link href="https://github.com/jaaleng/gitblog/issues/11"/><category term="心情"/><published>2024-05-13T14:23:15+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/10</id><title>一个免费电子书下载站</title><updated>2024-07-15T14:11:30.963259+00:00</updated><content type="html"><![CDATA[<p>一个免费电子书下载站，提供 pdf/txt/mobi/epub/kindle 格式的城通网盘电子书资源下载。可以配合前两天分享的城通网盘解析来下载资源</p>
 <p>出版书籍，数量挺多的，网站支持搜索和分类，书籍涵盖人文、历史、小说、经济、励志、学习、生活、套装等领域。</p>
 <p>有广告！有广告！有广告！</p>
 <p><a href="https://www.huibooks.com/">https://www.huibooks.com/</a></p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/10"/><category term="存档"/><published>2024-05-06T15:27:23+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/9</id><title>TensorFlow Internals.</title><updated>2024-07-07T11:29:46.228682+00:00</updated><content type="html"><![CDATA[<p>It is open source ebook about TensorFlow kernel and implementation mechanism, including programming model, computation graph, distributed training for machine learning.</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/10"/><category term="存档"/><published>2024-05-06T15:27:23+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/9</id><title>TensorFlow Internals.</title><updated>2024-07-15T14:11:31.049776+00:00</updated><content type="html"><![CDATA[<p>It is open source ebook about TensorFlow kernel and implementation mechanism, including programming model, computation graph, distributed training for machine learning.</p>
 <p>Downloads
 You can obtain full latex source files of TensorFlow Internals from <a href="https://gitlab.com/horance/tensorflow-internals">https://gitlab.com/horance/tensorflow-internals</a></p>
 <p>Install Tex
@@ -68,7 +115,7 @@ Ubuntu
 .</p>
 <p>Windows
 open the file from directory tensorflow-internals/output.</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/9"/><category term="存档"/><published>2024-05-05T15:31:52+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/8</id><title>微信视频号下载工具</title><updated>2024-07-07T11:29:46.329546+00:00</updated><content type="html"><![CDATA[<p>🆔  软件名称：微信视频号下载工具</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/9"/><category term="存档"/><published>2024-05-05T15:31:52+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/8</id><title>微信视频号下载工具</title><updated>2024-07-15T14:11:31.135967+00:00</updated><content type="html"><![CDATA[<p>🆔  软件名称：微信视频号下载工具</p>
 <p>⭐️  软件功能：视频号下载</p>
 <p>➡️  支持平台：#Windows</p>
 <p>📁  软件简介：一款视频下载工具，用于下载微信视频号的视频和直播回放。</p>
@@ -76,20 +123,20 @@ open the file from directory tensorflow-internals/output.</p>
 <p>可以复制视频的下载链接，使用其他下载工具将视频保存到本地。</p>
 <p>也可以选择手动下载，即通过复制链接后用其他工具下载；或选择自动下载，直接在软件中下载视频。</p>
 <p>⬇️  软件下载：<a href="https://github.com/qiye45/wechatVideoDownload/releases">点击下载</a></p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/8"/><category term="存档"/><published>2024-05-01T16:12:54+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/7</id><title>苹果发布新品邀请函：放飞吧！</title><updated>2024-07-07T11:29:46.419544+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.ym.today/file/a1758288054a91217edd3.jpg" alt="image" /></p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/8"/><category term="存档"/><published>2024-05-01T16:12:54+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/7</id><title>苹果发布新品邀请函：放飞吧！</title><updated>2024-07-15T14:11:31.223236+00:00</updated><content type="html"><![CDATA[<p><img src="https://pic.ym.today/file/a1758288054a91217edd3.jpg" alt="image" /></p>
 <p>苹果发布新品邀请函：放飞吧！</p>
 <p>5 月 7 日晚上十点，邀请函中苹果 logo 里一根 Apple Pencil。新款 iPad Pro 和 iPad Air 来了！ ​​​</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/7"/><category term="生活"/><published>2024-04-23T17:32:42+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/6</id><title>谢谢大家了</title><updated>2024-07-07T11:29:46.515490+00:00</updated><content type="html"><![CDATA[<p>近几年，困为繁重的工作根本没有顾及到网络，有空就刷下微信，聊以度日。</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/7"/><category term="生活"/><published>2024-04-23T17:32:42+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/6</id><title>谢谢大家了</title><updated>2024-07-15T14:11:31.293504+00:00</updated><content type="html"><![CDATA[<p>近几年，困为繁重的工作根本没有顾及到网络，有空就刷下微信，聊以度日。</p>
 <p>2024年过年后，工厂突然没有订单，一下处于半失业状态，有活就打电话丶没话就在家歇着，人一下子就闲了下来，想再去找个工作，还动不动打电话，不找吧，仅仅能发个千元的生活费。后来想想，先歇着吧，就又对网络上心了。</p>
 <p>首先就是接触到github的好多大神，看了好多优秀的项目，虽然自己部暑不了，但感觉眼界一下开了。有位jeely的大神，说建什么都建什么，真是羡慕。首先接触的是极简博客，然后是<a href="https://m.mblog.club">极简朋友圈</a>做的越来越好。还有位Github的大神<a href="https://github.com/yihong0618/gitblog">yihong</a>，我部署就是他的<a href="https://github.com/yihong0618/gitblog/issues/177">Github</a>博客，对于小白来说，还是折腾了好久，不过还算成功了。感谢大家了。
 老想着Github这样用是不是滥用，但是自己实在没有多余的金钱和精力，就先这样凑合吧。再次感谢那些帮助过我的朋友们，有很多问题他们都是不耐其烦的解答。</p>
 <p>谢谢大家了！</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/6"/><category term="生活"/><published>2024-04-21T16:25:25+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/5</id><title>正向星系NGC 1232  </title><updated>2024-07-07T11:29:46.617404+00:00</updated><content type="html"><![CDATA[<p>相比之下，我还是喜欢无垠的宇宙星空.</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/6"/><category term="生活"/><published>2024-04-21T16:25:25+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/5</id><title>正向星系NGC 1232  </title><updated>2024-07-15T14:11:31.634335+00:00</updated><content type="html"><![CDATA[<p>相比之下，我还是喜欢无垠的宇宙星空.</p>
 <p><img src="https://pic.ym.today/file/72a2d6bed528c3043250a.jpg" alt="image" /></p>
 <p>正向星系NGC 1232<br />
 影像提供与版权:Neil Corke</p>
 <p>说明： 从我们在银河系的视角看出去，NGC1232是个正向星系。这个庞大美丽、离我们约4千7百万光年远的螺旋星系，位于南天的波江座内，其跨幅将近有200,000光年。这幅由多色望远镜照片组合而成的NGC1232清晰影像，呈现了这个遥远星系无比细致的结构。从核心往外，星系的色泽从中心年老恒星的黄光，转变为宏伟螺旋臂上的泛蓝年轻星团和泛红的恒星形成区。NGC1232在视觉上的小棒旋伴星系，其编录号NGC 1232A。然而它的估计距离远在3亿光年之外，因此不太可能和NGC1232有互动。除此之外，醒目的带芒亮星近在我们银河系里，远比NGC 1232要近。</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/5"/><category term="天文"/><published>2024-04-19T03:59:31+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/4</id><title>苹果中国应用商店下架WhatsApp和Threads</title><updated>2024-07-07T11:29:46.723330+00:00</updated><content type="html"><![CDATA[<p>监管越来越严重了。</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/5"/><category term="天文"/><published>2024-04-19T03:59:31+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/4</id><title>苹果中国应用商店下架WhatsApp和Threads</title><updated>2024-07-15T14:11:31.743876+00:00</updated><content type="html"><![CDATA[<p>监管越来越严重了。</p>
 <blockquote>
 <p>据《华尔街日报》，苹果公司星期五（4月19日）从中国应用商店下架了Meta所开发的通讯软件WhatsApp和社媒平台Threads。
 《华尔街日报》报道称，苹果公司透露，这是中国最高互联网监管机构出于国家安全考虑，要求其删除这些应用程序。
@@ -97,7 +144,7 @@ open the file from directory tensorflow-internals/output.</p>
 中国工信部去年8月9日发布通知，要求境内所有App都必须向所在地的省级通信管理局备案。在通知印发前上线的应用程序，需在2024年3月底前完成备案。没有备案者不得从事网络讯息服务。
 工信部的通知还说，从今年4月至6月底，电信主管部门将组织对APP备案情况开展监督检查，对仍未履行备案手续的APP依法进行处置。</p>
 </blockquote>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/4"/><category term="心情"/><published>2024-04-19T03:19:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/3</id><title>测</title><updated>2024-07-07T11:29:46.822797+00:00</updated><content type="html"><![CDATA[<p>好</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/3"/><category term="存档"/><published>2024-04-19T02:44:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/2</id><title>测试</title><updated>2024-07-07T11:29:46.925214+00:00</updated><content type="html"><![CDATA[<p>测试</p>
-]]></content><link href="https://github.com/jaaleng/gitblog/issues/2"/><category term="天文"/><published>2024-04-19T02:33:41+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/1</id><title>About me</title><updated>2024-07-07T11:29:47.018756+00:00</updated><content type="html"><![CDATA[<p>About</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/4"/><category term="心情"/><published>2024-04-19T03:19:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/3</id><title>测</title><updated>2024-07-15T14:11:31.817952+00:00</updated><content type="html"><![CDATA[<p>好</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/3"/><category term="存档"/><published>2024-04-19T02:44:28+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/2</id><title>测试</title><updated>2024-07-15T14:11:31.917087+00:00</updated><content type="html"><![CDATA[<p>测试</p>
+]]></content><link href="https://github.com/jaaleng/gitblog/issues/2"/><category term="天文"/><published>2024-04-19T02:33:41+00:00</published></entry><entry><id>https://github.com/jaaleng/gitblog/issues/1</id><title>About me</title><updated>2024-07-15T14:11:32.007056+00:00</updated><content type="html"><![CDATA[<p>About</p>
 ]]></content><link href="https://github.com/jaaleng/gitblog/issues/1"/><category term="About"/><published>2024-04-19T02:31:03+00:00</published></entry></feed>
