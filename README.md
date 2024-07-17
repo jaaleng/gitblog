@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [如何基于Github Issues与Github Actions写技术博客？](https://github.com/jaaleng/gitblog/issues/20)--2024-07-17
 - [Google和微软的耗电量已经超过了100多个国家](https://github.com/jaaleng/gitblog/issues/19)--2024-07-16
 - [图床集合](https://github.com/jaaleng/gitblog/issues/18)--2024-07-15
 - [一个基于 React native 开发的音乐软件](https://github.com/jaaleng/gitblog/issues/17)--2024-07-15
 - [马斯克称星舰4周内将再次试飞](https://github.com/jaaleng/gitblog/issues/16)--2024-07-07
-- [腾讯视频 visionOS 端今日上线 提供逾 600 部作品](https://github.com/jaaleng/gitblog/issues/15)--2024-06-14
 ## 心情
 - [发个视频试下](https://github.com/jaaleng/gitblog/issues/11)--2024-05-13
 - [苹果中国应用商店下架WhatsApp和Threads](https://github.com/jaaleng/gitblog/issues/4)--2024-04-19
