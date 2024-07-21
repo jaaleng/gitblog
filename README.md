@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [在佛蒙特，用无人机捕捉未见之美](https://github.com/jaaleng/gitblog/issues/28)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [Emby客户端整理汇总](https://github.com/jaaleng/gitblog/issues/26)--2024-07-21
 - [黑洞的吸积盘与喷流](https://github.com/jaaleng/gitblog/issues/25)--2024-07-21
 - [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
-- [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
 ## 2024
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
@@ -16,6 +16,7 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 - [发个视频试下](https://github.com/jaaleng/gitblog/issues/11)--2024-05-13
 - [苹果中国应用商店下架WhatsApp和Threads](https://github.com/jaaleng/gitblog/issues/4)--2024-04-19
 ## 生活
+- [在佛蒙特，用无人机捕捉未见之美](https://github.com/jaaleng/gitblog/issues/28)--2024-07-21
 - [Emby客户端整理汇总](https://github.com/jaaleng/gitblog/issues/26)--2024-07-21
 - [黑洞的吸积盘与喷流](https://github.com/jaaleng/gitblog/issues/25)--2024-07-21
 - [苹果发布新品邀请函：放飞吧！](https://github.com/jaaleng/gitblog/issues/7)--2024-04-23
