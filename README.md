@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [Telegram语音聊天2.0：频道、数以百万的听众、语音聊天录制、管理员工具](https://github.com/jaaleng/gitblog/issues/32)--2024-07-21
 - [Telegram警惕假冒官方的双向限制解除机器人](https://github.com/jaaleng/gitblog/issues/31)--2024-07-21
 - [重新安装了系统，又折腾了一回hexo](https://github.com/jaaleng/gitblog/issues/30)--2024-07-21
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [在佛蒙特，用无人机捕捉未见之美](https://github.com/jaaleng/gitblog/issues/28)--2024-07-21
-- [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 ## 2024
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
@@ -31,13 +31,14 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 </details>
 
 ## 存档
+- [Telegram语音聊天2.0：频道、数以百万的听众、语音聊天录制、管理员工具](https://github.com/jaaleng/gitblog/issues/32)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 - [OpenAI推出“GPT-4o mini](https://github.com/jaaleng/gitblog/issues/21)--2024-07-18
 - [Google和微软的耗电量已经超过了100多个国家](https://github.com/jaaleng/gitblog/issues/19)--2024-07-16
-- [图床集合](https://github.com/jaaleng/gitblog/issues/18)--2024-07-15
 <details><summary>显示更多</summary>
 
+- [图床集合](https://github.com/jaaleng/gitblog/issues/18)--2024-07-15
 - [一个基于 React native 开发的音乐软件](https://github.com/jaaleng/gitblog/issues/17)--2024-07-15
 - [马斯克称星舰4周内将再次试飞](https://github.com/jaaleng/gitblog/issues/16)--2024-07-07
 - [腾讯视频 visionOS 端今日上线 提供逾 600 部作品](https://github.com/jaaleng/gitblog/issues/15)--2024-06-14
