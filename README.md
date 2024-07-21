@@ -3,12 +3,13 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [Emby客户端整理汇总](https://github.com/jaaleng/gitblog/issues/26)--2024-07-21
 - [黑洞的吸积盘与喷流](https://github.com/jaaleng/gitblog/issues/25)--2024-07-21
 - [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
-- [Google动手清理Play Store上的“低质量”应用](https://github.com/jaaleng/gitblog/issues/22)--2024-07-19
 ## 2024
+- [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/jaaleng/gitblog/issues/22)--2024-07-19
 ## 心情
@@ -20,13 +21,14 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 - [苹果发布新品邀请函：放飞吧！](https://github.com/jaaleng/gitblog/issues/7)--2024-04-23
 - [谢谢大家了](https://github.com/jaaleng/gitblog/issues/6)--2024-04-21
 ## 存档
+- [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 - [OpenAI推出“GPT-4o mini](https://github.com/jaaleng/gitblog/issues/21)--2024-07-18
 - [Google和微软的耗电量已经超过了100多个国家](https://github.com/jaaleng/gitblog/issues/19)--2024-07-16
 - [图床集合](https://github.com/jaaleng/gitblog/issues/18)--2024-07-15
-- [一个基于 React native 开发的音乐软件](https://github.com/jaaleng/gitblog/issues/17)--2024-07-15
 <details><summary>显示更多</summary>
 
+- [一个基于 React native 开发的音乐软件](https://github.com/jaaleng/gitblog/issues/17)--2024-07-15
 - [马斯克称星舰4周内将再次试飞](https://github.com/jaaleng/gitblog/issues/16)--2024-07-07
 - [腾讯视频 visionOS 端今日上线 提供逾 600 部作品](https://github.com/jaaleng/gitblog/issues/15)--2024-06-14
 - [庆余年 第二季 ](https://github.com/jaaleng/gitblog/issues/14)--2024-05-22
