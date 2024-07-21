@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [黑洞的吸积盘与喷流](https://github.com/jaaleng/gitblog/issues/25)--2024-07-21
 - [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/jaaleng/gitblog/issues/22)--2024-07-19
 - [OpenAI推出“GPT-4o mini](https://github.com/jaaleng/gitblog/issues/21)--2024-07-18
-- [如何基于Github Issues与Github Actions写技术博客？](https://github.com/jaaleng/gitblog/issues/20)--2024-07-17
 ## 2024
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/jaaleng/gitblog/issues/22)--2024-07-19
@@ -15,6 +15,7 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 - [发个视频试下](https://github.com/jaaleng/gitblog/issues/11)--2024-05-13
 - [苹果中国应用商店下架WhatsApp和Threads](https://github.com/jaaleng/gitblog/issues/4)--2024-04-19
 ## 生活
+- [黑洞的吸积盘与喷流](https://github.com/jaaleng/gitblog/issues/25)--2024-07-21
 - [苹果发布新品邀请函：放飞吧！](https://github.com/jaaleng/gitblog/issues/7)--2024-04-23
 - [谢谢大家了](https://github.com/jaaleng/gitblog/issues/6)--2024-04-21
 ## 存档
