@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [预测恒星的运动](https://github.com/jaaleng/gitblog/issues/54)--2024-07-21
 - [西岳华山](https://github.com/jaaleng/gitblog/issues/53)--2024-07-21
 - [西夏王](https://github.com/jaaleng/gitblog/issues/52)--2024-07-21
 - [斯科默岛白玉草丛中的海鹦](https://github.com/jaaleng/gitblog/issues/51)--2024-07-21
 - [神庙OS](https://github.com/jaaleng/gitblog/issues/50)--2024-07-21
-- [ 陕西太白山](https://github.com/jaaleng/gitblog/issues/49)--2024-07-21
 ## 2024
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
@@ -78,5 +78,6 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 </details>
 
 ## 天文
+- [预测恒星的运动](https://github.com/jaaleng/gitblog/issues/54)--2024-07-21
 - [正向星系NGC 1232  ](https://github.com/jaaleng/gitblog/issues/5)--2024-04-19
 - [测试](https://github.com/jaaleng/gitblog/issues/2)--2024-04-19
