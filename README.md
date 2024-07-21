@@ -3,17 +3,18 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [阿尔塞多火山上的象龟](https://github.com/jaaleng/gitblog/issues/33)--2024-07-21
 - [Telegram语音聊天2.0：频道、数以百万的听众、语音聊天录制、管理员工具](https://github.com/jaaleng/gitblog/issues/32)--2024-07-21
 - [Telegram警惕假冒官方的双向限制解除机器人](https://github.com/jaaleng/gitblog/issues/31)--2024-07-21
 - [重新安装了系统，又折腾了一回hexo](https://github.com/jaaleng/gitblog/issues/30)--2024-07-21
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
-- [在佛蒙特，用无人机捕捉未见之美](https://github.com/jaaleng/gitblog/issues/28)--2024-07-21
 ## 2024
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
 - [波浪预测：人工智能在公海上与水墙作战](https://github.com/jaaleng/gitblog/issues/23)--2024-07-19
 - [Google动手清理Play Store上的“低质量”应用](https://github.com/jaaleng/gitblog/issues/22)--2024-07-19
 ## 心情
+- [阿尔塞多火山上的象龟](https://github.com/jaaleng/gitblog/issues/33)--2024-07-21
 - [重新安装了系统，又折腾了一回hexo](https://github.com/jaaleng/gitblog/issues/30)--2024-07-21
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [发个视频试下](https://github.com/jaaleng/gitblog/issues/11)--2024-05-13
