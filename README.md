@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [已删库的著名工具列表统计如下](https://github.com/jaaleng/gitblog/issues/42)--2024-07-21
 - [惠塔国家公园的海岸线](https://github.com/jaaleng/gitblog/issues/41)--2024-07-21
 - [关山草原](https://github.com/jaaleng/gitblog/issues/40)--2024-07-21
 - [电话号码泄露一小时后，你的个人信息就能被查个底朝天](https://github.com/jaaleng/gitblog/issues/39)--2024-07-21
 - [带壳的栗子](https://github.com/jaaleng/gitblog/issues/37)--2024-07-21
-- [大提顿国家公园中的野牛，怀俄明州](https://github.com/jaaleng/gitblog/issues/36)--2024-07-21
 ## 2024
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
@@ -42,13 +42,14 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 </details>
 
 ## 存档
+- [已删库的著名工具列表统计如下](https://github.com/jaaleng/gitblog/issues/42)--2024-07-21
 - [电话号码泄露一小时后，你的个人信息就能被查个底朝天](https://github.com/jaaleng/gitblog/issues/39)--2024-07-21
 - [比岳飞还牛的两位抗金名将：一个病逝前线，一个被贬13年](https://github.com/jaaleng/gitblog/issues/35)--2024-07-21
 - [Telegram语音聊天2.0：频道、数以百万的听众、语音聊天录制、管理员工具](https://github.com/jaaleng/gitblog/issues/32)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
-- [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 <details><summary>显示更多</summary>
 
+- [网易发布 iOS、Android 个人媒体库](https://github.com/jaaleng/gitblog/issues/24)--2024-07-21
 - [OpenAI推出“GPT-4o mini](https://github.com/jaaleng/gitblog/issues/21)--2024-07-18
 - [Google和微软的耗电量已经超过了100多个国家](https://github.com/jaaleng/gitblog/issues/19)--2024-07-16
 - [图床集合](https://github.com/jaaleng/gitblog/issues/18)--2024-07-15
