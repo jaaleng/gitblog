@@ -3,11 +3,11 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 [RSS Feed](https://raw.githubusercontent.com/jaaleng/gitblog/master/feed.xml)
 
 ## 最近更新
+- [地球有多渺小](https://github.com/jaaleng/gitblog/issues/59)--2024-07-26
 - [今晚巴黎奥运会开幕式，分享几个常用的直播源](https://github.com/jaaleng/gitblog/issues/58)--2024-07-26
 - [网络罪犯操纵 GitHub 平台传播恶意程序](https://github.com/jaaleng/gitblog/issues/57)--2024-07-25
 - [公众号封面图、文章获取](https://github.com/jaaleng/gitblog/issues/56)--2024-07-23
 - [这是宇宙，看我们的银河系在哪？](https://github.com/jaaleng/gitblog/issues/55)--2024-07-21
-- [预测恒星的运动](https://github.com/jaaleng/gitblog/issues/54)--2024-07-21
 ## 2024
 - [正在吸食花蜜的蜂鸟鹰蛾](https://github.com/jaaleng/gitblog/issues/29)--2024-07-21
 - [Github上优秀的Java项目](https://github.com/jaaleng/gitblog/issues/27)--2024-07-21
@@ -81,6 +81,7 @@ My personal blog([About Me](https://github.com/jaaleng/gitblog/issues/2)) using 
 </details>
 
 ## 天文
+- [地球有多渺小](https://github.com/jaaleng/gitblog/issues/59)--2024-07-26
 - [这是宇宙，看我们的银河系在哪？](https://github.com/jaaleng/gitblog/issues/55)--2024-07-21
 - [预测恒星的运动](https://github.com/jaaleng/gitblog/issues/54)--2024-07-21
 - [正向星系NGC 1232  ](https://github.com/jaaleng/gitblog/issues/5)--2024-04-19
